@@ -1,5 +1,5 @@
 # labour_function_sudam
-Español
+[ES]
 Base de datos sobre ocupaciones y funciones económicas en Latinoamérica
 Este repositorio contiene una base de datos que clasifica las ocupaciones en los países de Latinoamérica según su rama de actividad, utilizando información recopilada de las encuestas de las oficinas estadísticas nacionales. La metodología sigue el enfoque de Timmer et al. (2019), vinculando las ocupaciones con cuatro funciones económicas clave:
 
@@ -9,7 +9,7 @@ Dirección (MNG): Gerencia y actividades de apoyo.
 Investigación (RD): Investigación, desarrollo e innovación tecnológica.
 Este recurso es ideal para estudios relacionados con cadenas de valor y análisis económico estructural.
 
-English
+[EN]
 Database on Occupations and Economic Functions in Latin America
 This repository provides a database that classifies occupations in Latin American countries by economic sector, based on data collected from national statistical office surveys. The methodology follows Timmer et al. (2019), linking occupations to four key economic functions:
 
